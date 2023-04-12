@@ -34,6 +34,7 @@
     "axios": "^1.2.2",
     "canvacord": "^5.4.8",
     "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
     "discord-giveaways": "^6.0.1",
     "discord-image-generation": "^1.4.23",
     "discord.js": "^14.7.1",
@@ -44,6 +45,7 @@
     "erela.js-deezer": "^1.0.7",
     "erela.js-facebook": "^1.0.4",
     "erela.js-spotify": "^1.2.0",
+    "express": "^4.18.2",
     "figlet": "^1.5.2",
     "fs": "^0.0.1-security",
     "generate-password": "^1.7.0",
@@ -65,10 +67,14 @@
     "node-fetch": "^2.6.6",
     "parse-ms": "^2.1.0",
     "popcat-wrapper": "^1.5.4",
+    "request": "^2.88.2",
     "sourcebin": "^5.0.0",
     "topgg-autoposter": "^2.0.1",
     "util": "^0.12.5",
     "weather-js": "^2.0.0",
     "ytdl-core": "^4.11.2"
+  },
+  "devDependencies": {
+    "node": "^17.4.0"
   }
 }

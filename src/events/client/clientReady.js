@@ -39,8 +39,7 @@ module.exports = async (client) => {
                     statuttext = [
                         `・❓┆/help`,
                         `・💻┆${totalGuilds} servers`,
-                        `・📨┆discord.gg/corwindev`,
-                        `・🎉┆400+ commands`,
+                        `・┆Chicken Little#0077`,
                         `・🏷️┆Version ${require(`${process.cwd()}/package.json`).version}`
                     ];
                 }
